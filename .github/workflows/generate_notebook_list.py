@@ -14,10 +14,10 @@ ROOT_DIR = os.path.abspath(".")
 OUTPUT_FILE = "notebooks.json"
 NOTEBOOK_DIR = "notebooks"
 SUBMODULE_ROOT = "external_notebooks"
-JHUB_INSTANCE = "workspace.earthcode.eox.at"
+JHUB_INSTANCE = "workspace.climate.hub-otc.eox.at"
 IGNORE_FOLDERS = ["venv", ".git", ".github", "_build", "_data", "dist"]
-DEF_ORG = "ESA-EarthCODE"
-DEF_REPO = "example-viewer"
+DEF_ORG = "esa-cci"
+DEF_REPO = "cci-notebook-viewers"
 
 def extract_last_image(nb, notebook_rel_path, output_dir="_build/html/build/_assets/previews", target_width=300):
     os.makedirs(output_dir, exist_ok=True)

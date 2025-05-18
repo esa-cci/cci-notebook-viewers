@@ -2,14 +2,14 @@
 version: 1
 project:
   id: 5aa0318b-5bc1-41e2-b1d4-053e8b61961b
-  title: "EarthCODE Examples"
-  subject: "EarthCODE Examples"
-  description: "Collection of examples relevant to the EarthCODE project"
+  title: "CCI Examples"
+  subject: "CCI Examples"
+  description: "Collection of examples relevant to the CCI activity"
   # keywords: []
   # authors: []
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
-  github: https://github.com/esa-earthcode/example-viewer/
+  github: https://github.com/esa-cci/cci-notebook-viewers/
   # license:
   #   code: MIT
   #   content: CC-BY-4.0
