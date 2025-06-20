@@ -24,6 +24,18 @@
     "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/ect-training&urlpath=lab/tree/ect-training/lps_vienna_06_2025/LPS_cloud_uncertainties.ipynb&branch=main"
   },
   {
+    "title": "LPS Beginner-3",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/external_notebooks_esa-cci_ect-training_lps_vienna_06_2025_LPS_Beginner-3_preview.png",
+    "link": "external-notebooks/esa-cci/ect-training/lps-vienna-06-2025/lps-beginner-3",
+    "org": "esa-cci",
+    "repo": "ect-training",
+    "source": "submodule",
+    "path": "external_notebooks/esa-cci/ect-training/lps_vienna_06_2025/LPS_Beginner-3.ipynb",
+    "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/ect-training&urlpath=lab/tree/ect-training/lps_vienna_06_2025/LPS_Beginner-3.ipynb&branch=main"
+  },
+  {
     "title": "**Analyzing Land Surface Temperature and Uncertainties: Insights from ESA CCI Data**",
     "description": "",
     "metadata": {},
