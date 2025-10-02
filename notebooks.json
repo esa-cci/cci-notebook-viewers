@@ -286,5 +286,17 @@
     "source": "submodule",
     "path": "external_notebooks/esa-cci/ect-training/lst_leicester_12_2024/LST_Training.ipynb",
     "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/ect-training&urlpath=lab/tree/ect-training/lst_leicester_12_2024/LST_Training.ipynb&branch=main"
+  },
+  {
+    "title": "Land Cover",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/external_notebooks_esa-cci_ect-training_ESA_Climate_Change_Competition_Competition_Forests_in_a_Changing_Climate_preview.png",
+    "link": "external-notebooks/esa-cci/ect-training/esa-climate-change-competition/competition-forests-in-a-changing-climate",
+    "org": "esa-cci",
+    "repo": "ect-training",
+    "source": "submodule",
+    "path": "external_notebooks/esa-cci/ect-training/ESA_Climate_Change_Competition/Competition_Forests_in_a_Changing_Climate.ipynb",
+    "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/ect-training&urlpath=lab/tree/ect-training/ESA_Climate_Change_Competition/Competition_Forests_in_a_Changing_Climate.ipynb&branch=main"
   }
 ]
