@@ -276,7 +276,7 @@
     "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/ect-training&urlpath=lab/tree/ect-training/lps_vienna_06_2025/LPS_Beginner.ipynb&branch=main"
   },
   {
-    "title": "**Analyzing Land Surface Temperature and Uncertainties: Insights from ESA CCI Data**",
+    "title": "Analyzing Land Surface Temperature and Uncertainties: Insights from ESA CCI Data",
     "description": "",
     "metadata": {},
     "image": "build/_assets/previews/external_notebooks_esa-cci_ect-training_lst_leicester_12_2024_LST_Training_preview.png",
