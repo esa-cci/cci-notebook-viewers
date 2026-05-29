@@ -60,6 +60,18 @@
     "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=lab/tree/cci-notebooks/notebooks/Soilmoisture_CCI.ipynb&branch=main"
   },
   {
+    "title": "Getting Started with Precursors for Aerosols and Ozone CCI Data",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/external_notebooks_esa-cci_cci-notebooks_notebooks_Precursors_Aerosols_Ozone_preview.png",
+    "link": "external-notebooks/esa-cci/cci-notebooks/notebooks/precursors-aerosols-ozone",
+    "org": "esa-cci",
+    "repo": "cci-notebooks",
+    "source": "submodule",
+    "path": "external_notebooks/esa-cci/cci-notebooks/notebooks/Precursors_Aerosols_Ozone.ipynb",
+    "gitpuller": "https://workspace.climate.hub-otc.eox.at/hub/user-redirect/git-pull?repo=https://github.com/esa-cci/cci-notebooks&urlpath=lab/tree/cci-notebooks/notebooks/Precursors_Aerosols_Ozone.ipynb&branch=main"
+  },
+  {
     "title": "Getting Started with Land Cover CCI Data",
     "description": "",
     "metadata": {},

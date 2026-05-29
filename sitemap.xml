@@ -44,6 +44,9 @@
     <loc>http://localhost:3000/external-notebooks/esa-cci/cci-notebooks/notebooks/permafrost-cci</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/external-notebooks/esa-cci/cci-notebooks/notebooks/precursors-aerosols-ozone</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/external-notebooks/esa-cci/cci-notebooks/notebooks/seaice-cci</loc>
   </url>
   <url>
